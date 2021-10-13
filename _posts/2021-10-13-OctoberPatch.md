@@ -35,7 +35,7 @@ Fixes with this update:
 - Misc changes ...check our Github for more ... @Project-LegionOS
 
 ```
-We recommend to flash clean this time because of all these new UI changes/additions in case you facing issues.
+Ota is back again now
 
 There might be some other changes/additions I forgot to add.
 
