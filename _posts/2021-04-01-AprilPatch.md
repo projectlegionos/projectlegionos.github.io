@@ -55,17 +55,13 @@ Please do share your reviews and feedback [HERE](https://sourceforge.net/project
 
 Hope You All Enjoy the Legion Release v3.8.
 
-Download ROM :- [Release v3.8](https://legionos.org/) 
+Download ROM :- [Release v3.8](https://project-legionos.org/) 
 
 Did you like the project? Show your support by donating through [Paypal](https://paypal.me/rajkale99) and  through UPI (for India Only):- kaleraj.rk@okicici
 
 Regards
 Team-Legion
 
-<!--adsense-->
-> Thanks for suppport ....keep supporting.....have a great day....kthxbye
-
 Telegram  : [Link](https://t.me/legionos)
-Website    : [Link](https://legionos.org/)
-Download : [Link](https://legionos.org/download.html)
-<!--adsense-->
+Website    : [Link](https://project-legionos.org/)
+Download : [Link](https://project-legionos.org/download.html)
