@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 #email: huxpro@gmail.com
 description: "Project-LegionOS is a AOSP based custom ROM"
 keyword: "AOSP, Android, OpenSource, CustomRom, Google, LegionOS, Legion, LegionOSBlog, Blog"
-url: "https://blog.project-legionos.org"              # your host, for absolute URL
+url: "https://legionos-devices.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -68,7 +68,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: https://blog.legionos.org
+ga_domain: https://legionos-devices.github.io
 
 
 
